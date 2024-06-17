@@ -3,7 +3,15 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
-
+    <!-- 配置Spring容器启动-->
+    <context-param>
+        <param-name>contextConfigLocation</param-name>
+        <!--指定spring配置文件位置  -->
+        <param-value>classpath:spring/applicationContext.xml</param-value>
+    </context-param>
+    <listener>
+        <listener-class>org.springframework.web.context.ContextCleanupListener</listener-class>
+    </listener>
     <!-- 配置DispatcherServlet -->
     <servlet>
         <servlet-name>springDispatcherServlet</servlet-name>
@@ -19,15 +27,7 @@
         <servlet-name>springDispatcherServlet</servlet-name>
         <url-pattern>/</url-pattern>
     </servlet-mapping>
-    <!-- 配置Spring容器启动-->
-    <context-param>
-        <param-name>contextConfigLocation</param-name>
-        <!--指定spring配置文件位置  -->
-        <param-value>classpath:spring/applicationContext.xml</param-value>
-    </context-param>
-    <listener>
-        <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
-    </listener>
+
     <!-- 支持Rest风格的过滤器 -->
     <filter>
         <filter-name>HiddenHttpMethodFilter</filter-name>

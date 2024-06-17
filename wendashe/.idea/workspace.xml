@@ -10,15 +10,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9128cec-45b6-4ace-8196-f1bd897456f4" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/springmvc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/MVC_Web_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/MVC_Web_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/WEB-INF/classes/com/xq/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/WEB-INF/lib/mysql-connector-java-5.1.49.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/WEB-INF/lib/spring-aspects-5.3.27.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/WEB-INF/lib/spring-jdbc-5.3.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/WEB-INF/lib/spring-tx-5.3.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xq/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xq/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +65,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -68,7 +75,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "模块",
+    "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "spring",
@@ -93,7 +100,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="2249f7d5-12c9-4a31-bcf2-9b8fe5890eaa" />
+        <option name="BASE_DIRECTORY_NAME" value="70935bac-3a13-4a25-894b-1f86d28971bd" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -101,7 +108,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="55006" />
+        <option name="DEBUG_PORT" value="51782" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -184,6 +191,10 @@
       <workItem from="1718258230579" duration="33000" />
       <workItem from="1718258818959" duration="1805000" />
       <workItem from="1718262992765" duration="753000" />
+      <workItem from="1718591591776" duration="771000" />
+      <workItem from="1718592670869" duration="865000" />
+      <workItem from="1718594653125" duration="688000" />
+      <workItem from="1718621685489" duration="14000" />
     </task>
     <servers />
   </component>
