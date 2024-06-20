@@ -10,21 +10,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9128cec-45b6-4ace-8196-f1bd897456f4" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xq/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xq/dao/CommentsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xq/dao/PersonalDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xq/dao/ProblemDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xq/dao/SystemDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xq/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xq/entity/CommentsInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xq/entity/PersonalInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xq/entity/ProblemInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xq/entity/SystemInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xq/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xq/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/CommentsDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/PersonalDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/ProblemDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/SystemDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/UserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/new.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/MVC_Web_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/MVC_Web_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MVC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/WEB-INF/classes/com/xq/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/WEB-INF/lib/mysql-connector-java-5.1.49.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/WEB-INF/lib/spring-aspects-5.3.27.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/WEB-INF/lib/spring-jdbc-5.3.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/WEB-INF/lib/spring-tx-5.3.24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MVC_Web_exploded/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xq/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xq/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wendasheWeb/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../wendasheWeb/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wendasheWeb/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../wendasheWeb/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wendasheWeb/src/components/start/search.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../wendasheWeb/src/components/start/search.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wendasheWeb/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../wendasheWeb/src/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wendasheWeb/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../wendasheWeb/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +51,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -63,29 +82,30 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/48035/Desktop/main/wendashe-SSM/wendashe/src/main/webapp",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "spring",
-    "spring.configuration.checksum": "0b9221b0599697618c27449e89d9b07a",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/48035/Desktop/main/xuexi/SSMDemo-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;spring&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;0b9221b0599697618c27449e89d9b07a&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\48035\Desktop\main\wendashe-SSM\wendashe\src\main\resources\spring" />
+      <recent name="C:\Users\48035\Desktop\main\wendashe-SSM\wendashe\src\main\resources" />
       <recent name="C:\Users\48035\Desktop\main\wendashe-SSM\wendashe\src\main\resources\mybatis" />
     </key>
   </component>
@@ -195,6 +215,10 @@
       <workItem from="1718592670869" duration="865000" />
       <workItem from="1718594653125" duration="688000" />
       <workItem from="1718621685489" duration="14000" />
+      <workItem from="1718759860686" duration="3852000" />
+      <workItem from="1718776645872" duration="3244000" />
+      <workItem from="1718843068652" duration="6773000" />
+      <workItem from="1718864897380" duration="2712000" />
     </task>
     <servers />
   </component>

@@ -15,12 +15,6 @@
         <!--        后缀，试图文件的扩展名-->
         <property name="suffix" value=".jsp"/>  <!--表示所有的jsp文件-->
     </bean>
-    <!--配置文件上传解析器  -->
-    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
-        <property name="defaultEncoding" value="utf-8"></property>
-        <property name="maxUploadSize" value="#{1024*1024*20}"></property>
-    </bean>
-
     <!-- 扫静态资源 -->
     <mvc:default-servlet-handler/>
     <!-- 扫动态  -->

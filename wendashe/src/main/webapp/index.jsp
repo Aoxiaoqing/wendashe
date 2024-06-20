@@ -12,5 +12,6 @@
 </head>
 <body>
 <h1>Hello World</h1>
+<a href="/user/enroll">跳转</a>
 </body>
 </html>
